@@ -14,6 +14,8 @@ Technologies utilisées :
   - Tomcat
   - Docker pour l'isolation des microservices
   - Spring boot initializer
+  - Spring data jpa
+
 
   * Maven
   * Docker Toolkit 
